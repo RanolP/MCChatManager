@@ -1,0 +1,10 @@
+name: MCChatManager
+version: 1.0
+main: me.ranol.mcchatmanager.MCChatManager
+commands:
+    mcchat:
+        description: 'TEst'
+    sources:
+        description: 'TEst'
+    chatcompile:
+        description: '.'
